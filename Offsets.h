@@ -1,8 +1,10 @@
 #pragma once
 //gMap
-#define gMap 0x3BC560
+#define gMap 0x3C2560 //0x3BC560
 #define knownCreatures 0x1C0
-#define gGame 0x3BC320
+#define gGame 0x3C2320 //0x3BC320
+
+#define gThing 0x3C152C//0x3BB52C
 
 
 #define battleList gMap + knownCreatures
@@ -30,7 +32,7 @@
 #define gMana 0x3C8
 #define gMaxMana 0x3D0
 
-//Creatures Blist OffSets
+//Creatures Battlelist OffSets
 #define cHealth 0x38
 #define cPosX 0xC
 #define cPosY 0x10

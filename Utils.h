@@ -35,3 +35,33 @@ inline char* GetStr(DWORD offset) {
 	else
 		return (char*)(*(DWORD*)offset);
 }
+#define BLOCK_SIZE 32
+
+UINT getBlockIndex(const Position& pos) { return ((pos.y / BLOCK_SIZE) * (65536 / BLOCK_SIZE)) + (pos.x / BLOCK_SIZE); }
+
+UINT getTileIndex(const Position& pos) { return ((pos.y % BLOCK_SIZE) * BLOCK_SIZE) + (pos.x % BLOCK_SIZE); }
+
+static bool isPartOf(const char* w1, const char* w2)
+{
+	int i = 0;
+	int j = 0;
+
+
+	while (w1[i] != '\0') {
+		if (w1[i] == w2[j])
+		{
+			int init = i;
+			while (w1[i] == w2[j] && w2[j] != '\0')
+			{
+				j++;
+				i++;
+			}
+			if (w2[j] == '\0') {
+				return true;
+			}
+			j = 0;
+		}
+		i++;
+	}
+	return false;
+}

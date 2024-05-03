@@ -1,6 +1,39 @@
 ﻿E:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(402,5): warning MSB8038: Spectre mitigation is enabled but Spectre mitigated libraries are not found.  Verify that the Visual Studio Workload includes the Spectre mitigated libraries.  See https://aka.ms/Ofhn4c for more information.
   dllmain.cpp
-e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\vector.h(80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\vector.h(89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\vector.h(89): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\position.h(109): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\position.h(111): warning C4305: '+=': truncation from 'double' to 'float'
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\position.h(123): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\position.h(151): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\player.h(102): warning C4244: '=': conversion from 'short' to 'uint8_t', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\player.h(117): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\player.h(121): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\player.h(125): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\player.h(129): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\player.h(133): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\engine.h(29): warning C4018: '<': signed/unsigned mismatch
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\engine.h(63): warning C4018: '>=': signed/unsigned mismatch
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\engine.h(206): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\engine.h(207): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\engine.h(214): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\engine.h(215): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\engine.h(296): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\engine.h(297): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\engine.h(304): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\engine.h(305): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\engine.h(461): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\cavebot.hpp(145): warning C4018: '<': signed/unsigned mismatch
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\cavebot.hpp(170): warning C4018: '<': signed/unsigned mismatch
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\automove.h(32): warning C4018: '<': signed/unsigned mismatch
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\automove.h(47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\automove.h(76): warning C4018: '>=': signed/unsigned mismatch
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\automove.h(92): warning C4018: '<': signed/unsigned mismatch
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\useskill.hpp(346): warning C4018: '<': signed/unsigned mismatch
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\useskill.hpp(397): warning C4018: '>=': signed/unsigned mismatch
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\useskill.hpp(402): warning C4018: '>=': signed/unsigned mismatch
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\useskill.hpp(407): warning C4018: '>=': signed/unsigned mismatch
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\useskill.hpp(416): warning C4018: '>=': signed/unsigned mismatch
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\useskill.hpp(423): warning C4018: '>=': signed/unsigned mismatch
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\useitem.hpp(49): warning C4018: '<': signed/unsigned mismatch
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\useskill.hpp(254): warning C4715: 'UseSkill::getSkillData': not all control paths return a value
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\useskill.hpp(120): warning C4715: 'UseSkill::getSkill': not all control paths return a value
   pxgDLL.vcxproj -> E:\Users\Victor\Documents\Visual Studio 2015\Projects\Teste\pxgDLL\Debug\pxgDLL.dll

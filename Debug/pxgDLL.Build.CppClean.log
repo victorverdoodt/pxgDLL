@@ -1,12 +1,17 @@
-e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\pxgdll.pch
 e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\vc141.pdb
 e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\vc141.idb
-e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\stdafx.obj
-e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\dx9.obj
-e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\dllmain.obj
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\inputmessage.obj
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\imgui_widgets.obj
 e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\imgui_impl_win32.obj
 e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\imgui_impl_dx9.obj
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\imgui_draw.obj
 e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\imgui.obj
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\dllmain.obj
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\pxgdll.pch
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\stdafx.obj
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\anti leak.obj
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\debug\pxgdll.dll
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\debug\pxgdll.ilk
 e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\debug\pxgdll.pdb
 e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\pxgdll.tlog\cl.command.1.tlog
 e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\pxgdll.tlog\cl.read.1.tlog
@@ -15,6 +20,12 @@ e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\
 e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\pxgdll.tlog\link-cvtres.write.1.tlog
 e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\pxgdll.tlog\link-rc.read.1.tlog
 e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\pxgdll.tlog\link-rc.write.1.tlog
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\pxgdll.tlog\link.18980-cvtres.read.1.tlog
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\pxgdll.tlog\link.18980-cvtres.write.1.tlog
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\pxgdll.tlog\link.18980-rc.read.1.tlog
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\pxgdll.tlog\link.18980-rc.write.1.tlog
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\pxgdll.tlog\link.18980.read.1.tlog
+e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\pxgdll.tlog\link.18980.write.1.tlog
 e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\pxgdll.tlog\link.command.1.tlog
 e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\pxgdll.tlog\link.read.1.tlog
 e:\users\victor\documents\visual studio 2015\projects\teste\pxgdll\pxgdll\debug\pxgdll.tlog\link.write.1.tlog
